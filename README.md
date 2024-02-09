@@ -6,7 +6,7 @@ The aim of our project is to allow users to order food easily. In order to achie
 ## ER Diagram
 ER Diagram helped me visualize and find connections between objects and concepts to build and structure databases of different industries.
 
-![er_diagram_food](https://github.com/BasarOgur/OnlineFoodOrderingSystem/assets/88591728/e3940f99-3835-489e-a21b-0e6d249e87df)
+![er_diagram_food](https://github.com/BasarOgur/OnlineFoodOrderingSystem/assets/88591728/281fcd3c-3a42-4c05-ba22-3e42218eaea7)
 
 ## DB Schema
 A database schema is a blueprint of the logical layout of a database, outlining how data is organized and structured. It describes various objects within the database, such as tables, columns, views, indexes, and stored procedures.
