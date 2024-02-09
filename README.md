@@ -15,6 +15,7 @@ A database schema is a blueprint of the logical layout of a database, outlining 
 
 ## UI User's Manual
 In order to give and order, give an user ID that exists within the database (1-9) otherwise it will give you a message that tells you that it does not exist. Then give an order ID that exists (1-6) once again if you enter one that does not exist it will give an error message. Lastly enter the amount you want. Bon appetit!
+
 In order to use add update and delete functions simply write things the way you wish only constraint is to make sure enter correct value type for example make sure to use an integer for UserID.
 
 ![online_food_ordering_UI](https://github.com/BasarOgur/OnlineFoodOrderingSystem/assets/88591728/310473af-ff8a-4531-b894-adc828587890)
