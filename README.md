@@ -20,7 +20,8 @@ In order to use add update and delete functions simply write things the way you 
 
 ![online_food_ordering_UI](https://github.com/BasarOgur/OnlineFoodOrderingSystem/assets/88591728/310473af-ff8a-4531-b894-adc828587890)
 
-
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
